@@ -15,7 +15,12 @@ h4 {
     padding: 0px 20px;
     text-align: center;
 }
-
+h6 {
+    font-family:Garamond, Helvetica, sans-serif;
+    color: #ffffff;
+    padding: 0px 5px;
+    text-align: left;
+}
 #container {
     text-align: center;
 }
